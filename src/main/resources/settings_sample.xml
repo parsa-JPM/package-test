@@ -30,7 +30,7 @@
     <server>
       <id>github</id>
       <username>parsa-script</username>
-      <password>5c5889e9eb68f38fdbcfe486cb6b989354829afc</password>
+      <password>GitHub token</password>
     </server>
   </servers>
 </settings>
